@@ -20,6 +20,14 @@ img {
 
 .container {
     width: 1158px;
+    margin: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.header-nav {
+    display: flex;
+    align-items: center;
 }
 
 .logo {
@@ -28,6 +36,7 @@ img {
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
+    margin-right: 76px;
     text-transform: uppercase;
     color: #4d5ae5;
 }
