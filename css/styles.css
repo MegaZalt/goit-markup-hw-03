@@ -10,9 +10,12 @@ img {
     display: block;
 }
 
-.header-menu {
+.header {
     border-bottom: 1px solid #e7e9fc;
-    
+}
+
+.header-container {
+    display: flex;
 }
 
 .logo {
