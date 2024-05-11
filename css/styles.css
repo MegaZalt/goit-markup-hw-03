@@ -41,7 +41,14 @@ img {
     color: #4d5ae5;
 }
 
+.menu {
+    display: flex;
+    gap: 40px;
+}
+
 .menu-studio {
+    padding-top: 24px;
+    padding-bottom: 24px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
