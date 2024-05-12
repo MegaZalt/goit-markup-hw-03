@@ -175,6 +175,11 @@ img {
     color: #434455;
 }
 
+.wrap-portfolio {
+    padding-top: 120px;
+    padding-top: 120px;
+}
+
 .title-portfolio {
     font-size: 36px;
     line-height: 1.11;
@@ -182,6 +187,7 @@ img {
     text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;
 }
 
 .portfolio-name {
