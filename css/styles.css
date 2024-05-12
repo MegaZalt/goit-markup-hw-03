@@ -128,10 +128,6 @@ img {
     gap: 24px;
 }
 
-.list-text-title {
-    flex-basis: calc((100% - 72px) / 4))
-}
-
 .text-title {
     font-weight: 500;
     font-size: 20px;
