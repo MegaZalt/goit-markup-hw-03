@@ -134,8 +134,6 @@ ul {
 .list-title {
     display: flex;
     gap: 24px;
-    margin: 0;
-    padding: 0;
 }
 
 .visually-hidden {
@@ -168,6 +166,8 @@ ul {
 
 .wrap-pic {
     background-color: #F4F4FD;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 .wrap-team {
@@ -177,6 +177,7 @@ ul {
     text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
+    margin-bottom: 72px;
 }
 
 .title-pic{
