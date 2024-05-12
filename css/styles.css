@@ -10,6 +10,14 @@ img {
     display: block;
 }
 
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
 .header {
     border-bottom: 1px solid #e7e9fc;
 }
@@ -199,7 +207,7 @@ img {
 }
 
 .list-port {
-    list-style-type: none;
+    list-style-type: none
     display: flex;
     flex-wrap: wrap;
     column-gap: 24px;
