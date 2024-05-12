@@ -128,6 +128,10 @@ img {
     gap: 24px;
 }
 
+.list-text-title {
+    flex-basis: calc((100% - 72px) / 4))
+}
+
 .text-title {
     font-weight: 500;
     font-size: 20px;
@@ -173,10 +177,6 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-}
-
-.portfolio-pic {
-    flex-basis: calc((100% - 72px) / 4));
 }
 
 .wrap-portfolio {
