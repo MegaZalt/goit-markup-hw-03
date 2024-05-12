@@ -197,7 +197,8 @@ img {
     row-gap: 48px;
 }
 
-.portfolio-pic {
+.container-pic {
+    padding: 32px 16px;
 }
 
 .portfolio-name {
