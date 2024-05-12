@@ -205,6 +205,10 @@ img {
     row-gap: 48px;
 }
 
+.portfolio-pic {
+    width: calc((100% - 48px) / 3);
+}
+
 .portfolio-name {
     font-weight: 500;
     font-size: 20px;
