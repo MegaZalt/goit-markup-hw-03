@@ -175,6 +175,10 @@ img {
     color: #434455;
 }
 
+.portfolio-pic {
+    flex-basis: calc((100% - 72px) / 4));
+}
+
 .wrap-portfolio {
     padding-top: 120px;
     padding-top: 120px;
