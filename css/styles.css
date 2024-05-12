@@ -118,6 +118,11 @@ img {
     background-color: #404BBF;
 }
 
+.wrap-text {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
 .text-title {
     font-weight: 500;
     font-size: 20px;
