@@ -33,7 +33,7 @@ ul {
     padding: 0;
 }
 
-.list-item:first-child {
+.list-text-title {
     width: calc((100% - 72px) / 4);
 }
 
