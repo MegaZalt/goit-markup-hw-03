@@ -33,9 +33,6 @@ ul {
     padding: 0;
 }
 
-.list-text-title {
-    width: calc((100% - 72px) / 4);
-}
 
 .header {
     border-bottom: 1px solid #e7e9fc;
@@ -156,6 +153,10 @@ ul {
     gap: 24px;
 }
 
+.list-text-title {
+    width: calc((100% - 72px) / 4);
+}
+
 .visually-hidden {
     position: absolute;
     width: 1px;
@@ -167,11 +168,6 @@ ul {
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
-}
-
-.list-text-title {
-    margin: 0;
-    padding: 0;
 }
 
 .text-title {
@@ -213,6 +209,8 @@ ul {
 
 .title-pic{
     background-color: #FFFFFF;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
 }
 
 .people-prof {
