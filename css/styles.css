@@ -209,8 +209,7 @@ ul {
 
 .title-pic{
     background-color: #FFFFFF;
-    border-top-right-radius: 4px;
-    border-bottom-left-radius: 4px;
+    border-radius: 0px 0px 4px 4px
 }
 
 .people-prof {
